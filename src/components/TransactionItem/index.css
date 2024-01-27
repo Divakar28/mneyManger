@@ -1,0 +1,30 @@
+.delete-btn {
+  border-width: 0;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-end;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px;
+}
+.delete {
+  height: 3vh;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 5px;
+  text-align: start;
+}
+.p {
+  padding: 5px;
+}
+.ll {
+  display: flex;
+  padding: 0;
+}

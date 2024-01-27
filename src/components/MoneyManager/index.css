@@ -1,0 +1,76 @@
+.money-head {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 10px;
+  height: 25vh;
+  background-size: cover;
+}
+.head {
+  color: #1e293b;
+}
+.p {
+  color: #7e858e;
+  font-weight: 500;
+}
+.pp {
+  color: #0b69ff;
+  font-weight: bold;
+}
+.balance-bg {
+  background-color: #ecfccb;
+  border-bottom: #84cc16;
+  border-left: #84cc16;
+  border-style: solid;
+  border-top: none;
+  border-right: none;
+  margin: 5px;
+  border-radius: 7px;
+  padding: 5px;
+}
+.income-bg {
+  background-color: #cffafe;
+  border-bottom: #06b6d4;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 7px;
+  margin: 5px;
+  padding: 5px;
+}
+.express-bg {
+  background-color: #cbd5e1;
+  border-bottom: #7c3aed;
+  border-right: #7c3aed;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-radius: 7px;
+  margin: 5px;
+  padding: 5px;
+}
+.enqiure-balance {
+  display: flex;
+}
+.icons {
+  padding: 10px;
+  height: 10vh;
+}
+.Add-button {
+  background-color: #0b69ff;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 0;
+}
+.history-list {
+  display: flex;
+}
+.bgn {
+  display: flex;
+}
+.list-t {
+  display: flex;
+}
+.pl {
+  padding: 5px;
+}
